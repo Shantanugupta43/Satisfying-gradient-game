@@ -1,6 +1,7 @@
 # Satisfying-gradient-game using React Native expo
 
-A Basic React Native expo application which shifts gradience when users perform an interaction (i.e Tapping on the "Change" button). I have also added a sound upon interaction which users could use while making gradient shifts to make the game more satisfying and enjoyable.
+Worked on the idea of creating a Basic React Native expo application, that shifts gradience when users perform an interaction (i.e., Tapping on the "Change" button). The app also contains an added 'play sound' feature upon an interaction that users could utilize while making gradient shifts to make the game more satisfying and enjoyable.
+
 
 <h2> Steps to Create the application </h2>
 
